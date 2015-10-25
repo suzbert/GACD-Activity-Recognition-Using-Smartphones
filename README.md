@@ -1,2 +1,2 @@
 # GACD-Activity-Recognition-Using-Smartphones
-# an exercise in tidy data using R
+# an exercise using R to create tidy data
