@@ -2,7 +2,8 @@
 an exercise using R to create tidy data
 
 
--The R script called "run_analysis.R" executes the following steps. Test data are run through the scripted commands first, then training data.
+#The R script called "run_analysis.R" executes the following steps. 
+Test data are run through the scripted commands first, then training data.
 
 Reads activity labels from "activity_labels.txt". Reads column names from "features.txt". Reads the data (x, y and subject) For test data: from 'test/X_test.txt', 'test/y_test.txt', "test/subject_test.txt". For training data: from 'train/X_train.txt', 'train/y_train.txt', "train/subject_train.txt".
 
