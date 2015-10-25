@@ -5,11 +5,7 @@ an exercise using R to create tidy data
 Test data are run through the scripted commands first, then training data.
 
 1. Reads activity labels from "activity_labels.txt". 
-2. Reads column names from "features.txt". Reads the data (x, y and subject) 
-  
-For test data: from 'test/X_test.txt', 'test/y_test.txt', "test/subject_test.txt". 
-
-For training data: from 'train/X_train.txt', 'train/y_train.txt', "train/subject_train.txt".
+2. Reads column names from "features.txt". Reads the data (x, y and subject). For test data: from 'test/X_test.txt', 'test/y_test.txt', "test/subject_test.txt". For training data: from 'train/X_train.txt', 'train/y_train.txt', "train/subject_train.txt".
 
 3. For the test and training data: Identifies data to subset out from features: Extract_features gets only column names containing "mean" or "std" 
 
