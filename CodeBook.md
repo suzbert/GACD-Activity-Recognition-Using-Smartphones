@@ -1,7 +1,5 @@
-GACD-Activity-Recognition-Using-Smartphones
-an exercise using R to create tidy data
-Goal: Prepare a tidy dataset to use for later analysis 
-from data collected by Samsung Galaxy S smartphone accelerometers 
+#GACD-Activity-Recognition-Using-Smartphones:  an exercise using R to create tidy data
+#Goal: Prepare a tidy dataset to use for later analysis from data collected by Samsung Galaxy S smartphone accelerometers 
 
 #Sources:
 data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
